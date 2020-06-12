@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "list": ["NAM Pack 2020", "Vanilla"],
+    "profiles": {
+        "NAM Pack 2020": {
+            "version": "5.0.2",
+            "type": "twitch-zip",
+            "url": "https://github.com/borisliao/nam-dist/releases/download/5.0.2/NAM-Pack.zip"
+        },
+        "Vanilla":{
+            "version": "1",
+            "type": "multimc-zip",
+            "url": "https://github.com/borisliao/nam-dist/releases/download/5.0.2/vanilla.zip"
+        }
+    }
+}
