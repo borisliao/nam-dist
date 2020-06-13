@@ -1,5 +1,6 @@
 {
     "version": 1,
+    "alert": "Grand Opening!",
     "list": ["NAM Pack 2020", "Vanilla"],
     "profiles": {
         "NAM Pack 2020": {
