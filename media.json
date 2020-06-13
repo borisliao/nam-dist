@@ -1,4 +1,7 @@
 {
+    "img": [
+        "https://raw.githubusercontent.com/borisliao/NAM-Pack/master/docs/assets/img/logo.jpg"
+    ],
     "default": {
         "title": "NAM Client",
         "description": "World class launcher and auto updater for a world class server!",
