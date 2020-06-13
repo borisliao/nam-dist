@@ -3,6 +3,11 @@
     "alert": "Welcome to the new NAM Client. This is a huge rewrite so please report any bugs!",
     "list": ["NAM Pack 2020", "Vanilla"],
     "profiles": {
+        "R.A.D.": {
+            "version": "1.38",
+            "type": "twitch-zip",
+            "url": "https://media.forgecdn.net/files/2948/424/R.A.D.-1.38.zip"
+        },
         "NAM Pack 2020": {
             "version": "5.0.2",
             "type": "twitch-zip",
