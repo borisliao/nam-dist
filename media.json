@@ -1,0 +1,19 @@
+{
+    "default": {
+        "title": "NAM Client",
+        "description": "World class launcher and auto updater for a world class server!",
+        "img": [
+            "https://raw.githubusercontent.com/borisliao/NAM-Pack/master/docs/assets/img/logo.jpg"
+        ]
+    },
+    "NAM Pack 2020": {
+        "title": "NAM Pack 2020",
+        "description": "Custom Modpack",
+        "img": []
+    },
+    "Vanilla":{
+        "title": "20w12a",
+        "description": "Vanilla Snapshot",
+        "img": []
+    }
+}
