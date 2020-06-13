@@ -3,10 +3,10 @@
     "alert": "Welcome to NAM Client v0.1.X. This is a huge rewrite so please report any bugs!",
     "list": ["NAM Pack 2020", "Vanilla"],
     "profiles": {
-        "R.A.D.": {
+        "Roguelike Adventures and Dungeons": {
             "version": "1.38",
             "type": "twitch-zip",
-            "url": "https://media.forgecdn.net/files/2948/424/R.A.D.-1.38.zip"
+            "url": "https://github.com/borisliao/nam-dist/releases/download/1.38/Roguelike.Adventures.and.Dungeons.zip"
         },
         "NAM Pack 2020": {
             "version": "5.0.2",
