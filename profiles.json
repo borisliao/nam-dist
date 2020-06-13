@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "alert": "Grand Opening!",
+    "alert": "Welcome to NAM Client v 0.1.X. This is a huge rewrite so please report any bugs!",
     "list": ["NAM Pack 2020", "Vanilla"],
     "profiles": {
         "NAM Pack 2020": {
