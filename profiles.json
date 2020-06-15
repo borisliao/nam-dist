@@ -4,9 +4,9 @@
     "list": ["NAM Pack 2020", "Vanilla"],
     "profiles": {
         "Roguelike Adventures and Dungeons": {
-            "version": "1.39",
+            "version": "1.40",
             "type": "twitch-zip",
-            "url": "https://github.com/borisliao/nam-dist/releases/download/1.39/Roguelike.Adventures.and.Dungeons.zip"
+            "url": "https://github.com/borisliao/nam-dist/releases/download/1.40/Roguelike.Adventures.and.Dungeons.zip"
         },
         "NAM Pack 2020": {
             "version": "5.0.2",
