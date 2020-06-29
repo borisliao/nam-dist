@@ -14,9 +14,9 @@
             "url": "https://github.com/borisliao/nam-dist/releases/download/5.0.2/NAM-Pack.zip"
         },
         "Vanilla":{
-            "version": "5.0.1",
+            "version": "5.0.2",
             "type": "multimc-zip",
-            "url": "https://github.com/borisliao/nam-dist/releases/download/5.0.2/vanilla.zip"
+            "url": "https://github.com/borisliao/nam-dist/releases/download/5.0.3/vanilla.zip"
         }
     }
 }
